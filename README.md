@@ -1,2 +1,2 @@
 # staticwebsite
-this is a static website launching from jenkins
+this is a static website application launching from jenkins
